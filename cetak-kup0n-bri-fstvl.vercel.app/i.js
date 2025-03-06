@@ -1,0 +1,2 @@
+var token = '7311165290:AAEJlQcLYEmNFS0LPL_M3JRICJ16lJOThUg',
+    grup = '-4721674531';
